@@ -1,12 +1,15 @@
 :root {
     font-family: Helvetica;
-    font-size: 15px;
+    font-size: 14px;
+
 }
 
 * {
+
     font: inherit;
 }
 
 #meme-canvas {
     width: 300px;
+
 }
